@@ -172,6 +172,18 @@ body{
     font-size: 1rem;
 }
 
+/* Footer */
+footer{
+    display: absolute;
+    bottom: 1rem;
+    left: 0;
+}
+
+footer > p{
+    text-align: center;
+    letter-spacing: 0.1rem
+}
+
 /* Media querys */
 
 @media (max-width: 500px){
