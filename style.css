@@ -177,6 +177,7 @@ footer{
     position: absolute;
     bottom: 1rem;
     left: 0;
+    width: 100%;
 }
 
 footer > p{
