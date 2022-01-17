@@ -178,6 +178,7 @@ footer{
     bottom: 1rem;
     left: 0;
     width: 100%;
+    border-top: 1px solid #FF504B;
 }
 
 footer > p{
